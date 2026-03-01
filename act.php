@@ -18,7 +18,7 @@
 
 <!-- start row -->
 <div class="row">
-
+<!-- s -->
     <div class="tab-content ps-2" id="v-pills-tabContent">
         <div class="tab-pane fade active show" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
             <div class="col-xl-12">
